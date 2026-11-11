@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kiosk</string>
+    <string name="widget_compact_title">Kiosk CPU &amp; RAM Gauge</string>
+    <string name="widget_compact_desc">Lightweight real-time CPU &amp; memory monitor with Nothing OS dot-matrix and Windows XP skins.</string>
+    <string name="widget_deck_title">Kiosk Tablet Telemetry Deck</string>
+    <string name="widget_deck_desc">Multi-tile desktop telemetry deck showing CPU cores, RAM graph, storage, battery, and network.</string>
+    <string name="start_button_label">Start</string>
+    <string name="kiosk_menu_label">Kiosk</string>
+    <string name="skin_nothing_label">Nothing OS Dot-Matrix</string>
+    <string name="skin_xp_luna_label">Windows XP Luna Blue</string>
+    <string name="skin_xp_classic_label">Windows XP Classic</string>
+    <string name="process_inspector_title">Process &amp; Memory Breakdown</string>
+    <string name="widget_config_title">Home Screen Widget &amp; Polling Config</string>
+    <string name="edit_grid_mode">Customize Grid</string>
+    <string name="lock_grid_mode">Lock Grid</string>
+</resources>

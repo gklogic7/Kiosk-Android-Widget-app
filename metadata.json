@@ -1,0 +1,6 @@
+{
+  "name": "Kiosk",
+  "description": "Lightweight real-time CPU and memory telemetry widget suite and tablet desktop workspace with Nothing OS dot-matrix and Windows XP skins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
